@@ -1,0 +1,24 @@
+.top-banner {
+    height: 100vh;
+}
+.party-text h6{
+    /* color: #023B59; */
+    color: #4CBFA6;
+    font-family: pacifico,cursive!important;
+}
+.top-banner .row {
+    height: 90vh;
+}
+.party-text h2 {
+    color: #482673;
+    font-size: 68px;
+    font-weight: 700;
+    font-family: 'Rakkas', cursive;
+}
+.party-img {
+    width: 100%;
+}
+.party-img img {
+    height: 500px;
+    width: 100%;
+}
